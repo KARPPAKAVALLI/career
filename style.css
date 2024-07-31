@@ -1,0 +1,75 @@
+.logo{
+    margin-left: 20px;
+}
+img.logo{
+    height: 40px;
+    width: 100px;
+}
+.header{
+    text-align: center;
+}
+.header i{
+    height: 50px;
+    padding: 5px;
+}
+.header h1{
+    font-size: 50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.forms{
+    padding-left: 20%;
+    text-align: left;
+}
+.forms input{
+    width: 600px;
+}
+.forms select{
+    width: 600px;
+}
+.forms span{
+    color:rgb(242, 38, 79);
+}
+.autofill{
+    display: flex;
+    position: relative;
+    left: 20%;
+}
+.resume-auto{
+    background-color:rgb(232, 225, 225);
+    height: 100px;
+    width: 600px;
+    text-align: center;
+    padding-top: 10px;
+    border-style: dashed;
+    border-color:rgb(195, 185, 185); ;
+}
+.signin{
+    margin-left: 20px;
+    position: relative;
+    top: 125px;
+    text-align: center;
+}
+.signin button{
+    background-color: rgb(242, 38, 79);
+    color: white;
+    height: 35px;
+    width: 165px;
+    border: none;
+    font-size: larger;
+}
+.zicon img{
+    height: 50%px;
+}
+.browse{
+    background-color:rgb(232, 225, 225);
+    width: 100px;
+    text-align: center;
+    padding: 5px;
+    border-style: dashed;
+    border-color:rgb(195, 185, 185); ;
+}
+.button-submit{
+    margin-top: 10px;
+    position: relative;
+    left: 20%;
+}
